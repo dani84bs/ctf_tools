@@ -12,3 +12,12 @@ After downloading all the tools it will try to run *chisel* and *ctf-web-server.
 
 If the script would be run inside a tmux directory it will create new windows
 for the tools.
+*** Requirements
+- Bash
+- wget
+- python 3
+- tmux is not required, but using ctf_tools inside a tmux session will improve
+  your experience.
+*** Usage
+Just download the script, give it execution permissions and launch it, it will
+take care of the rest.
