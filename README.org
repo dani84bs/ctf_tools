@@ -7,7 +7,7 @@ This script will try to download the latest version of:
 - [[https://github.com/dani84bs/ctf-web-server/][ctf-web-server]]
 
 After downloading all the tools it will try to run *chisel* and *ctf-web-server.*
-- Chisel will be run in server server mode on port 9999
+- Chisel will be run in reverse server mode on port 9999
 - ctf-web server will serve all static files in the www directory
 
 If the script would be run inside a tmux directory it will create new windows
